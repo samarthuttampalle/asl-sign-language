@@ -24,7 +24,7 @@ This project recognizes American Sign Language (ASL) alphabets (A–Z) using dee
 
 ## 🛠 Installation
 ```bash
-git clone https://github.com/<your-username>/asl-sign-language.git
+git clone https://github.com/samarthuttampalle/asl-sign-language.git
 cd asl-sign-language
 pip install -r requirements.txt
 ```
